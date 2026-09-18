@@ -1,0 +1,13 @@
+1-
+    a) 5.9
+    b) FFA0
+    c) FFA5
+
+2- 
+    a) V
+    b) V
+    c) F
+    d) F
+
+3-
+    arquivo Exercicio1.c
